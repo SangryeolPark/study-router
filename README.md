@@ -6,6 +6,7 @@
 
 - Understand features of React Router
 - Unserstand how to use Bootstrap
+- Understand CORS
 
 ## Project Scenario
 
